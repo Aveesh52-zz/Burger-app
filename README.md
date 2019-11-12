@@ -4,6 +4,6 @@
 ![image](homepagebur.png)
 ![image](moalsum.png)
 
-![image](firebase.png)
+![image](firrebase.png)
 ![image](checkout.png)
 ![image](orders.png)
